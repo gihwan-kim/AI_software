@@ -1,0 +1,66 @@
+type: Image2shape
+model:
+    # hyperparameter of model
+    arch: clipcap
+
+    config:                             # clip_project
+        # prefix_size:                  # dim_clip, default 512, clip ouput dimension
+        prefix_length: 10               # prefix const 차원 (prefix_length, dim_embedding)
+        prefix_length_clip: 10          # clip_length 길이
+        only_prefix: only_prefix        # mapping Netowrk 만 훈련시키겠다는 의미
+        mapping_type: transformer
+        num_layers: 2
+        # clip_type: RN50                  # clip type
+        clip_type: RN50x4
+        prefix_size: 640
+    gpt2_config:
+        n_head: 2
+        n_layer: 2
+
+    root: '/home/guest/gihwan/AI_software/term/runs'
+
+# prefix_length > 40 : 1080 gpu setting 으로 힘듦
+#   5, 10
+data:
+    dataset: Image2ShapeDataset
+    dataset_config:
+        prefix_length: 10
+        normalize_prefix: True
+        train_pkl_path: /home/guest/gihwan/AI_software/dataset/train/clip_pkl_RN50x4_train.pkl
+        valid_pkl_path: /home/guest/gihwan/AI_software/dataset/valid/clip_pkl_RN50x4_valid.pkl
+        test_pkl_path: /home/guest/gihwan/AI_software/dataset/test/clip_pkl_RN50x4_test.pkl
+    train_path: /home/guest/gihwan/AI_software/dataset/train/scene.all.xlsx
+    valid_path: /home/guest/gihwan/AI_software/dataset/valid/scene.all.xlsx
+
+    tokenizer: GPT2Tokenizer
+    tokenizer_name: "gpt2"
+    tokenizer_configs:
+    # [Default]
+        bos_token:
+        eos_token:
+        unk_token:
+        pad_token:
+        mask_token:
+
+training:
+    gpu: 0
+    n_workers: 1
+    epoch: 150
+    batch_size: 64
+    train_interval: 15
+    print_interval: 25
+    loss:
+        name: CrossEntropyLoss
+        thresh: 0.7
+        ignore_index: 250
+    optimizer:
+        name: adamw
+        lr: 1.0e-6
+        weight_decay: 5.0e-4
+    resume:
+    visdom: False
+
+validating:
+    resume:
+    n_workers: 1
+    batch_size: 1

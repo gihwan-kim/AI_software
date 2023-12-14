@@ -1,0 +1,52 @@
+type: Text2color
+model:
+    # hyperparameter of model
+    arch: GPT2LMHeadModel
+    name: skt/kogpt2-base-v2
+    config:
+        # n_ctx: 1024
+        # n_embd: 768
+        n_head: 4
+        # n_inner: null
+        n_layer: 4
+        # n_positions: 1024
+        pad_token_id: 3
+    root: '/home/guest/gihwan/AI_software/term/runs'
+
+data:
+    dataset: Text2ColorDataset
+    train_path: /home/guest/gihwan/AI_software/dataset/train/scene.all.xlsx
+    valid_path: /home/guest/gihwan/AI_software/dataset/valid/scene.all.xlsx
+    tokenizer: PreTrainedTokenizerFast
+    tokenizer_name: skt/kogpt2-base-v2
+    tokenizer_configs:
+        bos_token: '</s>'
+        eos_token: '</s>'
+        unk_token: '<unk>'
+        pad_token: '<pad>'
+        mask_token: '<mask>'
+testing:
+    is_test: False
+
+training:
+    gpu: 0
+    n_workers: 1
+    epoch: 150
+    batch_size: 8
+    train_interval: 1
+    print_interval: 25
+    loss:
+        name: CrossEntropyLoss
+        thresh: 0.7
+        ignore_index: 250
+    optimizer:
+        name: adamw
+        lr: 1.0e-6
+        weight_decay: 5.0e-4
+    resume:
+    visdom: False
+
+validating:
+    resume:
+    n_workers: 1
+    batch_size: 1

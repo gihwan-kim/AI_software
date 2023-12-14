@@ -1,0 +1,1500 @@
+7000	black , blue , red , yellow
+7001	black , blue , green , red , yellow
+7002	black , red , yellow
+7003	black , green , red , yellow
+7004	blue , green , red , yell , yellow
+7005	black , green , lack , yellow
+7006	blue , green , red , yell , yellow
+7007	black , blue , green , red , yellow
+7008	blue , green , red , yellow
+7009	blue , green , red , yellow
+7010	black , green , yellow
+7011	blue , green , red , yell , yellow
+7012	blue , green , red , yellow
+7013	black , blue , red
+7014	black , green , yellow
+7015	black , blue , red
+7016	black , red , yellow
+7017	blue , lack , red , yellow
+7018	blue , green , yellow
+7019	green , lack , red , yellow
+7020	blue , green , red , yellow
+7021	black , green , lack , red
+7022	black , blue , red , yellow
+7023	blue , green , red
+7024	blue , green , red , yellow
+7025	black , blue , green , red , yellow
+7026	black , blue , green , yellow
+7027	black , blue , green , red , yellow
+7028	black , blue , red , yellow
+7029	black , blue , red , yellow
+7030	black , blue , green , red , yell , yellow
+7031	blue , green , red , yellow
+7032	blue , green , red , yellow
+7033	blue , lack , yellow
+7034	blue , green , red , yell , yellow
+7035	blue , green , red , yell , yellow
+7036	blue , green , red , yell , yellow
+7037	black , green , yellow
+7038	blue , green , red , yellow
+7039	blue , red , yellow
+7040	blue , green , red , yellow
+7041	black , red , yellow
+7042	blue , green , red , yellow
+7043	black , blue , green , red
+7044	black , blue , green , red , yellow
+7045	black , green , yellow
+7046	black , red , yellow
+7047	black , green , red , yellow
+7048	black , blue , green
+7049	black , blue , red , yellow
+7050	black , green , yellow
+7051	black , blue , green , red , yellow
+7052	black , blue , red , yellow
+7053	black , red , yellow
+7054	black , blue , green , red , yellow
+7055	blue , red
+7056	blue , green , red , yellow
+7057	blue , green , yellow
+7058	blue , green , red , yellow
+7059	black , green , red , yellow
+7060	black , green , lack , red , yellow
+7061	black , green , red , yellow
+7062	blue , green , red , yellow
+7063	blue , green , red
+7064	black , blue , green , red , yellow
+7065	blue , green , red , yellow
+7066	red , yellow
+7067	black , blue , red , yellow
+7068	black , blue , green , red , yellow
+7069	black , green , red , yellow
+7070	black , blue , green , red , yellow
+7071	black , green , yellow
+7072	black , blue , green , red , yellow
+7073	blue , green , red , yell , yellow
+7074	blue , red , yellow
+7075	blue , green , red , yell , yellow
+7076	black , blue , green , yellow
+7077	black , green , red , yellow
+7078	black , blue , green , red
+7079	blue , green , red , yellow
+7080	black , blue , green , red , yell
+7081	black , green , lack , red , yellow
+7082	black , green , yellow
+7083	black , green , red , yellow
+7084	black , blue , green , yellow
+7085	blue , green , red , yellow
+7086	blue , red , yellow
+7087	blue , red , yellow
+7088	black , green , red , yellow
+7089	black , blue , green , yellow
+7090	black , blue , green , yellow
+7091	blue , green , red , yellow
+7092	blue , green , red , yell , yellow
+7093	blue , green , red , yellow
+7094	black , green , red , yellow
+7095	black , blue , red , yellow
+7096	black , green , red , yell , yellow
+7097	black , blue , lack , yell , yellow
+7098	blue , yell , yellow
+7099	black , green , red , yellow
+7100	blue , green , red , yellow
+7101	black , green , red , yell , yellow
+7102	blue , green , red , yellow
+7103	black , blue , green , yellow
+7104	black , green , yellow
+7105	black , blue , green , red , yell , yellow
+7106	blue , red , yellow
+7107	blue , green , red
+7108	blue , green , red , yellow
+7109	black , green , red , yell
+7110	black , blue , green , lack , yellow
+7111	blue , green , yellow
+7112	black , green , red , yellow
+7113	black , blue , green , red , yellow
+7114	black , blue , green , red , yell , yellow
+7115	black , blue , green , red , yellow
+7116	black , green , red , yellow
+7117	blue , green , yellow
+7118	blue , red , yellow
+7119	blue , red , yellow
+7120	black , blue , green , red , yellow
+7121	black , green , red , yell
+7122	black , green , red , yell , yellow
+7123	black , blue , green , red , yellow
+7124	blue , green , red , yellow
+7125	blue , green , red , yell
+7126	black , green , red , yellow
+7127	blue , green , red , yellow
+7128	black , blue , green , yellow
+7129	black , blue , red , yellow
+7130	blue , green , red , yellow
+7131	black , green , lack , yellow
+7132	black , blue , green , red , yellow
+7133	black , blue , yell , yellow
+7134	black , blue , green , red , yellow
+7135	black , green , yellow
+7136	black , green , red , yellow
+7137	blue , red
+7138	blue , green , red , yell , yellow
+7139	blue , green , red , yellow
+7140	black , red , yellow
+7141	blue , green , lack , red , yellow
+7142	black , blue , green , red , yellow
+7143	black , blue , green , red , yellow
+7144	black , blue , green , red
+7145	black , blue , green , red , yellow
+7146	black , blue , green , red , yellow
+7147	black , blue , lack , yellow
+7148	black , blue , green , red
+7149	black , blue , red , yellow
+7150	black , red , yellow
+7151	black , green , yellow
+7152	black , blue , green , red , yellow
+7153	black , blue , red , yellow
+7154	black , blue , green , red , yellow
+7155	black , blue , green , red , yellow
+7156	blue , red
+7157	black , blue , green , red , yell , yellow
+7158	black , blue , green , red
+7159	black , blue , red , yellow
+7160	black , blue , green , red , yellow
+7161	black , blue , red , yellow
+7162	black , blue , green , red , yellow
+7163	black , blue , red , yellow
+7164	blue , green , red , yellow
+7165	blue , green , red , yellow
+7166	blue , green , red , yellow
+7167	black , blue , green , red , yell , yellow
+7168	black , blue , lack , red , yell
+7169	blue , green , red , yellow
+7170	blue , green , red , yellow
+7171	black , blue , green , red , yellow
+7172	black , blue , red , yellow
+7173	blue , yellow
+7174	blue , green , red , yellow
+7175	black , green , red , yellow
+7176	black , blue , green , lue
+7177	black , blue , green , yellow
+7178	black , blue , green , red , yellow
+7179	blue , green , red , yellow
+7180	black , blue , red , yellow
+7181	blue , green , red , yellow
+7182	black , blue , yell
+7183	black , blue , green , lack , red
+7184	black , blue , green , red , yellow
+7185	blue , green , red , yellow
+7186	black , blue , red , yellow
+7187	black , green , yellow
+7188	black , green , lack , red , yell , yellow
+7189	black , blue , green , red , yellow
+7190	black , blue , green , red , yellow
+7191	black , blue , red
+7192	black , blue , green , red , yellow
+7193	blue , green , yellow
+7194	black , blue , red , yellow
+7195	blue , green , lack , red , yellow
+7196	black , blue , green , red , yellow
+7197	black , green , lack , red , yellow
+7198	green , red , yellow
+7199	black , green , red , yellow
+7200	blue , yell , yellow
+7201	blue , green , red , yellow
+7202	black , blue , green , red , yellow
+7203	blue , green , red , yell , yellow
+7204	blue , red , yellow
+7205	blue , green , red , yellow
+7206	blue , yell , yellow
+7207	black , blue , green , red , yellow
+7208	black , green , red , yellow
+7209	black , blue , red , yellow
+7210	black , blue , green , red
+7211	blue , red , yellow
+7212	black , blue , green , yellow
+7213	blue , green , red , yellow
+7214	black , blue , yellow
+7215	black , yell , yellow
+7216	black , green , red , yellow
+7217	black , blue , green , red , yellow
+7218	black , red , yellow
+7219	black , blue , green , red , yellow
+7220	black , green , red , yellow
+7221	blue , green , red
+7222	black , green , red , yellow
+7223	blue , green , red , yellow
+7224	black , green , yellow
+7225	black , blue , green , red , yellow
+7226	black , blue , green , yellow
+7227	black , blue , green , red , yellow
+7228	blue , green , red
+7229	blue , lack , red , yellow
+7230	blue , green , red , yellow
+7231	black , green , lack , red , yellow
+7232	black , blue , red , yellow
+7233	black , green , lack , red , yell , yellow
+7234	black , blue , green , red , yellow
+7235	black , blue , green , red , yell , yellow
+7236	black , blue , lack , yellow
+7237	blue , green , lack , red , yell , yellow
+7238	black , blue , green , red , yellow
+7239	black , blue , red
+7240	blue , green , red , yell , yellow
+7241	black , blue , green , red , yellow
+7242	black , green , red , yellow
+7243	blue , green , red
+7244	black , green , red , yellow
+7245	black , blue , green , red , yellow
+7246	black , lack , red , yellow
+7247	blue , green , red , yellow
+7248	black , blue , green , red , yellow
+7249	black , green , red , yellow
+7250	black , blue , green , red , yell , yellow
+7251	blue , red , yellow
+7252	blue , green , yellow
+7253	black , green , yell
+7254	black , green , red , yell , yellow
+7255	blue , green , red , yellow
+7256	black , green , lack , red , yellow
+7257	black , blue , green , red , yellow
+7258	blue , red , yellow
+7259	black , red , yellow
+7260	black , green , red , yellow
+7261	black , green , red , yellow
+7262	black , blue , green , red , yell , yellow
+7263	blue , green , yellow
+7264	black , blue , green , red , yellow
+7265	black , blue , green , lack , red , yell , yellow
+7266	black , green , lack , red , yellow
+7267	black , green , lack , red , yellow
+7268	black , green , red , yellow
+7269	blue , green , yellow
+7270	black , green , red , yell , yellow
+7271	black , green , red , yellow
+7272	black , blue , red , yellow
+7273	black , blue , red
+7274	black , blue , green , red , yellow
+7275	black , green , red , yellow
+7276	black , blue , green , red , yellow
+7277	blue , green , red , yellow
+7278	black , blue , red , yellow
+7279	black , green , red , yellow
+7280	blue , red , yell , yellow
+7281	black , green , red , yell , yellow
+7282	black , blue , red , yellow
+7283	black , green , red , yellow
+7284	black , blue , green , red , yellow
+7285	blue , green , red , yellow
+7286	blue , green , red , yell , yellow
+7287	blue , red , yellow
+7288	green , red , yellow
+7289	blue , green , red , yellow
+7290	black , blue , green , red , yellow
+7291	blue , red
+7292	black , green , red
+7293	black , blue , green , red
+7294	black , green , red , yellow
+7295	black , green , red , yellow
+7296	black , blue , green , red , yellow
+7297	black , yellow
+7298	blue , green , red
+7299	black , blue , green , yellow
+7300	blue , green , red , yellow
+7301	blue , green , red , yellow
+7302	black , blue , green , red , yellow
+7303	black , blue , green , red , yellow
+7304	blue , green , lack , red , yellow
+7305	black , green , yellow
+7306	black , blue , green , red , yellow
+7307	blue , green , yellow
+7308	black , blue , green , red , yellow
+7309	blue , green , red , yellow
+7310	black , blue , green , yellow
+7311	black , blue , green , red , yell , yellow
+7312	black , blue , green , yellow
+7313	black , blue , red , yell
+7314	black , blue , yellow
+7315	black , green , red , yellow
+7316	blue , green , red , yellow
+7317	black , blue , green , yellow
+7318	black , blue , green , yellow
+7319	black , blue , green , red , yellow
+7320	black , blue , green , red , yellow
+7321	black , blue , green , red , yellow
+7322	black , blue , green , red , yell
+7323	black , blue , green , red , yell , yellow
+7324	black , blue , green , red , yellow
+7325	black , blue , green , yellow
+7326	black , blue , red
+7327	blue , green , red , yell
+7328	black , green , red , yellow
+7329	black , green , red , yellow
+7330	black , green , lack , red , yellow
+7331	blue , green , red , yellow
+7332	black , green , red , yellow
+7333	black , green , red , yell , yellow
+7334	blue , green , red , yellow
+7335	blue , green , red , yellow
+7336	black , blue , green , red , yellow
+7337	black , blue , green , yellow
+7338	black , green , yellow
+7339	black , green , red , yell , yellow
+7340	blue , green , red , yellow
+7341	blue , green , red , yell , yellow
+7342	blue , green , red , yellow
+7343	black , green , red , yellow
+7344	black , blue , green , red , yellow
+7345	black , green , red , yellow
+7346	black , blue , green
+7347	black , blue , green , red , yellow
+7348	black , green , lack , red , yellow
+7349	black , blue , yell , yellow
+7350	blue , green , red , yellow
+7351	blue , green , red , yellow
+7352	black , green , lack , red , yellow
+7353	black , green , red , yellow
+7354	black , blue , red , yellow
+7355	blue , green , red , yellow
+7356	black , green , red , yellow
+7357	black , blue , green , red , yell , yellow
+7358	black , green , yellow
+7359	blue , green , red , yellow
+7360	black , green , red , yellow
+7361	black , green , red , yellow
+7362	blue , red , yellow
+7363	black , green , red , yellow
+7364	black , blue , red
+7365	black , blue , green , red , yellow
+7366	blue , red , yellow
+7367	black , green , red , yellow
+7368	black , blue , red , yellow
+7369	black , blue , green , red , yellow
+7370	blue , red
+7371	black , blue , green , yellow
+7372	black , blue , green , red , yellow
+7373	black , green , red , yellow
+7374	black , green , red , yellow
+7375	blue , green , red , yell , yellow
+7376	black , blue , green , red , yellow
+7377	blue , green , red , yellow
+7378	black , lack , red
+7379	black , green , red , yellow
+7380	blue , red , yellow
+7381	black , blue , red , yellow
+7382	black , blue , red , yellow
+7383	blue , green , red , yellow
+7384	black , blue , green , red , yellow
+7385	blue , green , red , yellow
+7386	black , green , red , yellow
+7387	black , blue , lack , red , yellow
+7388	blue , green , lack , red , yellow
+7389	black , blue , green , red , yellow
+7390	black , blue , red , yellow
+7391	blue , green , red , yellow
+7392	black , green , yellow
+7393	blue , green , yellow
+7394	black , green , lack , red , yell , yellow
+7395	blue , green , red , yellow
+7396	black , blue , green , red , yellow
+7397	black , blue , green , yellow
+7398	black , blue , green , red , yellow
+7399	blue , green , red , yellow
+7400	black , blue , green , lack , red , yellow
+7401	black , green , yellow
+7402	black , blue , green , red , yellow
+7403	black , blue , green , red , yellow
+7404	black , green , red , yellow
+7405	black , blue , red , yellow
+7406	blue , green , red , yellow
+7407	black , blue , green , yellow
+7408	blue , green , red , yell
+7409	blue , red , yellow
+7410	blue , green , red , yell , yellow
+7411	black , blue , red , yellow
+7412	black , blue , green , red , yell , yellow
+7413	black , blue , green , red , yell , yellow
+7414	black , blue , red
+7415	black , blue , green , red , yellow
+7416	black , blue , lack , yellow
+7417	black , blue , green , yellow
+7418	black , blue , green , red , yellow
+7419	black , green , red , yellow
+7420	black , blue , green , red , yell , yellow
+7421	black , blue , red , yellow
+7422	black , blue , green , red , yellow
+7423	black , blue , green , red , yellow
+7424	blue , green , red , yellow
+7425	blue , green , red , yellow
+7426	black , blue , green , red , yell , yellow
+7427	black , green , lack , red , yellow
+7428	black , green , red , yell , yellow
+7429	blue , green , yellow
+7430	blue , green , red , yell
+7431	black , lack , yellow
+7432	blue , green , red , yell , yellow
+7433	black , green , red , yellow
+7434	blue , green , red , yellow
+7435	black , blue , green , red , yellow
+7436	black , blue , yell , yellow
+7437	black , blue , green , red , yell , yellow
+7438	black , green , red , yellow
+7439	blue , green , red , yell , yellow
+7440	blue , green , red , yellow
+7441	black , green , red , yellow
+7442	black , blue , green , red , yellow
+7443	blue , green , red , yellow
+7444	blue , green , red , yellow
+7445	black , blue , green , red , yellow
+7446	blue , green , lack , red , yellow
+7447	blue , green , red , yellow
+7448	black , green , red , yellow
+7449	blue , red , yellow
+7450	blue , green , red , yellow
+7451	blue , yellow
+7452	black , green , red , yellow
+7453	blue , green , red
+7454	black , blue , green , yellow
+7455	black , blue , red , yellow
+7456	blue , green , red , yellow
+7457	black , blue , green , lack , yellow
+7458	black , blue , green , red , yellow
+7459	black , blue , green , red , yellow
+7460	black , blue , green , red , yellow
+7461	black , blue , green , red
+7462	blue , green , red , yellow
+7463	black , blue , green
+7464	black , green , red , yellow
+7465	blue , red , yellow
+7466	black , green , lack , red , yell , yellow
+7467	black , blue , green , red , yellow
+7468	blue , green , red , yellow
+7469	blue , green , yellow
+7470	black , blue , lack , red , yellow
+7471	black , blue , green , red , yellow
+7472	blue , lack , red , yellow
+7473	blue , green , red , yellow
+7474	blue , green , red
+7475	blue , green , yellow
+7476	blue , green , red , yellow
+7477	black , green , red , yellow
+7478	black , blue , green , red , yellow
+7479	blue , red
+7480	blue , green , red , yellow
+7481	black , green , red
+7482	black , blue , green , red , yellow
+7483	black , green , red , yellow
+7484	blue , red , yellow
+7485	blue , green , red , yellow
+7486	blue , green , red , yellow
+7487	blue , red , yellow
+7488	black , green , red , yellow
+7489	blue , green , red , yellow
+7490	black , green , lack , red , yellow
+7491	black , blue , red , yellow
+7492	black , green , yell
+7493	blue , green , red , yellow
+7494	black , green , red , yellow
+7495	black , blue , red , yellow
+7496	blue , green , lack , red , yellow
+7497	blue , green , yellow
+7498	blue , green , yellow
+7499	blue , lack , red , yellow
+7500	black , blue , green , red , yellow
+7501	blue , green , red , yellow
+7502	blue , green , red , yell , yellow
+7503	black , green , red , yellow
+7504	blue , green , lack , red , yellow
+7505	black , green , red , yellow
+7506	black , green , red
+7507	black , green , red , yellow
+7508	black , blue , green , red , yellow
+7509	black , blue , green , red , yellow
+7510	black , green , red , yellow
+7511	black , blue , red , yellow
+7512	black , green , lack , red , yellow
+7513	black , blue , green , red , yell , yellow
+7514	black , blue , green , yellow
+7515	blue , green , red , yellow
+7516	black , green , lack , red , yell , yellow
+7517	blue , lack , yell , yellow
+7518	black , blue , red
+7519	blue , green , lack , red , yellow
+7520	black , blue , red , yellow
+7521	blue , green , red , yell , yellow
+7522	blue , green , red , yellow
+7523	blue , green , red , yellow
+7524	black , green , yellow
+7525	black , blue , green , red , yellow
+7526	blue , green , red , yellow
+7527	blue , green , red
+7528	blue , green , red , yellow
+7529	black , green , lack , yell
+7530	black , red , yellow
+7531	black , lack , red , yell
+7532	black , blue , green , red , yellow
+7533	blue , green , yellow
+7534	red , yellow
+7535	black , blue , yellow
+7536	black , blue , green , yellow
+7537	black , blue , red , yellow
+7538	black , green , red , yellow
+7539	blue , green , red , yellow
+7540	blue , green , red , yellow
+7541	black , blue , green , yellow
+7542	black , green , yellow
+7543	black , green , red , yellow
+7544	black , blue , green , red , yellow
+7545	black , blue , green , red , yellow
+7546	blue , green , yellow
+7547	blue , green , red , yell , yellow
+7548	black , green , red , yellow
+7549	black , green , red , yellow
+7550	black , green , red , yellow
+7551	black , blue , red , yellow
+7552	black , green , lack , red , yellow
+7553	black , green , red , yellow
+7554	black , green , red , yellow
+7555	black , green , yellow
+7556	black , blue , red
+7557	black , blue , red , yellow
+7558	black , blue , green , red , yellow
+7559	black , blue , yellow
+7560	black , blue , green , red , yellow
+7561	black , blue , green , red , yellow
+7562	black , blue , green , yellow
+7563	black , green , red , yellow
+7564	blue , green , red , yellow
+7565	black , green , red , yellow
+7566	blue , red , yellow
+7567	blue , green , red
+7568	black , blue , green , red , yellow
+7569	blue , green , red
+7570	blue , green , red , yellow
+7571	blue , green , red , yellow
+7572	black , blue , green , red , yellow
+7573	blue , green , yellow
+7574	black , blue , green , red , yellow
+7575	black , green , red , yellow
+7576	blue , green , red , yellow
+7577	black , green , lack , red , yellow
+7578	black , blue , green , lack , red , yellow
+7579	black , green , red
+7580	black , green , red , yellow
+7581	black , green , red , yellow
+7582	blue , green , red , yellow
+7583	black , blue , green , red , yell , yellow
+7584	blue , green , red , yell , yellow
+7585	blue , green , red , yellow
+7586	blue , red , yellow
+7587	black , green , red , yellow
+7588	blue , red , yellow
+7589	blue , red , yellow
+7590	blue , green , yellow
+7591	black , blue , green
+7592	black , green , yellow
+7593	black , red , yellow
+7594	black , green , red , yellow
+7595	black , green , red , yellow
+7596	black , blue , green , red , yell , yellow
+7597	blue , green , red , yellow
+7598	black , green , yellow
+7599	black , blue , green , red , yellow
+7600	black , blue , red , yellow
+7601	black , blue , yellow
+7602	black , green , yellow
+7603	black , blue , green , red , yell , yellow
+7604	black , blue , green , red , yellow
+7605	black , blue , green , red , yellow
+7606	black , blue , green , red , yellow
+7607	blue , green , red , yellow
+7608	black , blue , green , red , yellow
+7609	black , red , yellow
+7610	black , blue , lack , red , yellow
+7611	blue , red , yellow
+7612	black , blue , yell , yellow
+7613	black , green , yellow
+7614	black , blue , green , red , yellow
+7615	black , green , red , yellow
+7616	black , red , yellow
+7617	black , blue , green , yellow
+7618	blue , green , red , yellow
+7619	black , green , red , yell , yellow
+7620	blue , green , red , yellow
+7621	blue , red , yellow
+7622	blue , green , yellow
+7623	black , blue , green , red , yellow
+7624	black , blue , green , yellow
+7625	blue , green , red , yell , yellow
+7626	black , green , red , yellow
+7627	black , blue , yellow
+7628	blue , red
+7629	black , blue , green , yellow
+7630	black , blue , green , red , yellow
+7631	black , blue , green
+7632	black , blue , green
+7633	black , red , yellow
+7634	black , blue , green , yellow
+7635	black , blue , green , red , yellow
+7636	black , green , red
+7637	black , green , red , yell
+7638	blue , green , red , yellow
+7639	black , blue , green , red , yellow
+7640	black , blue , green , red , yellow
+7641	black , blue , green , red , yellow
+7642	black , red , yellow
+7643	black , blue , blueack , red
+7644	blue , green , red , yellow
+7645	black , green , red
+7646	blue , green , red , yellow
+7647	black , blue , green , red , yellow
+7648	black , green , lack , yell
+7649	blue , green , red , yellow
+7650	black , blue , green , red , yellow
+7651	black , green , red , yellow
+7652	black , blue , red
+7653	blue , green , red , yellow
+7654	black , blue , green , red , yellow
+7655	black , blue , green , red , yellow
+7656	black , blue , green , red , yellow
+7657	black , blue , green , red , yell , yellow
+7658	black , blue , green , red , yellow
+7659	black , blue , green , red , yellow
+7660	black , blue , green , red , yellow
+7661	blue , green , red , yellow
+7662	black , blue , green , yellow
+7663	black , blue , green , yellow
+7664	black , green , red
+7665	blue , green , red , yellow
+7666	black , green , red , yellow
+7667	black , green , red , yellow
+7668	black , blue , green , red , yellow
+7669	blue , green , red , yellow
+7670	black , blue , green , red , yellow
+7671	blue , red
+7672	black , blue , red , yellow
+7673	black , green , red , yellow
+7674	blue , green , yellow
+7675	black , green , lack , red , yellow
+7676	blue , green , red , yellow
+7677	blue , green , red , yell , yellow
+7678	blue , green , red , yell , yellow
+7679	blue , red , yellow
+7680	black , green , lack , red , yellow
+7681	black , blue , red , yellow
+7682	blue , green , red
+7683	blue , green , red , yellow
+7684	black , yell , yellow
+7685	black , green , lack , red , yellow
+7686	black , green , red , yellow
+7687	black , green , red
+7688	blue , green , red , yellow
+7689	blue , red , yellow
+7690	black , blue , lack , yellow
+7691	blue , green , red
+7692	black , green , red , yellow
+7693	black , blue , green , yell
+7694	black , blue , green , red , yellow
+7695	blue , green , red , yellow
+7696	black , blue , green , red , yellow
+7697	black , green , red , yellow
+7698	blue , green , yellow
+7699	blue , red , yellow
+7700	black , green , lack , red , yellow
+7701	blue , green , red
+7702	blue , green , red
+7703	blue , green , red , yellow
+7704	blue , green , red , yellow
+7705	black , green , lack , red , yellow
+7706	black , red , yellow
+7707	black , green , red , yellow
+7708	black , blue , red
+7709	black , blue , green , red , yell , yellow
+7710	black , blue , green , red , yellow
+7711	blue , red , yellow
+7712	black , green , red , yell , yellow
+7713	black , blue , green , red , yellow
+7714	black , blue , green , red , yellow
+7715	blue , green , red , yellow
+7716	black , blue , red , yellow
+7717	black , blue , green , red , yellow
+7718	black , green , yellow
+7719	black , blue , green , red , yellow
+7720	red , yellow
+7721	black , blue , red
+7722	black , green , red , yell , yellow
+7723	blue , green , red , yellow
+7724	black , green , red , yellow
+7725	black , blue , green , red , yell , yellow
+7726	black , green , red , yellow
+7727	black , blue , red , yell , yellow
+7728	black , green , red
+7729	black , blue , green , red , yellow
+7730	blue , green , red
+7731	blue , green , yellow
+7732	blue , green , red , yellow
+7733	black , blue , green , red , yellow
+7734	black , blue , green , red , yellow
+7735	black , blue , red , yellow
+7736	blue , red , yellow
+7737	black , blue , green , red , yellow
+7738	black , green , lack , red , yellow
+7739	black , blue , green , red , yell , yellow
+7740	black , blue , green , red , yellow
+7741	blue , red , yell , yellow
+7742	black , red , yellow
+7743	blue , red , yellow
+7744	blue , green , red
+7745	black , blue , green , red , yellow
+7746	blue , green , lack , red , yell , yellow
+7747	blue , red , yellow
+7748	black , blue , green
+7749	black , green , red , yellow
+7750	blue , red , yellow
+7751	black , green , red , yellow
+7752	blue , green , red , yellow
+7753	black , green , yellow
+7754	black , green , red , yellow
+7755	black , blue , green , red , yell , yellow
+7756	black , green , red , yellow
+7757	black , blue , green , red , yell , yellow
+7758	blue , green , red
+7759	black , green , red
+7760	black , green , red , yellow
+7761	black , blue , green , red , yellow
+7762	blue , green , red , yellow
+7763	black , green , red , yellow
+7764	black , green , red , yellow
+7765	black , blue , lack , red , yell
+7766	black , blue , yellow
+7767	black , blue , red , yellow
+7768	blue , green , red , yellow
+7769	black , green , lack , red , yellow
+7770	black , blue , green , red , yellow
+7771	blue , red , yellow
+7772	black , blue , green , red , yellow
+7773	black , red , yellow
+7774	blue , green , red , yellow
+7775	black , green , red , yellow
+7776	blue , green , red , yellow
+7777	black , blue , red , yellow
+7778	black , red , yellow
+7779	blue , green , yellow
+7780	blue , green , yellow
+7781	blue , green , red , yellow
+7782	blue , green , red , yellow
+7783	blue , green , red , yellow
+7784	black , blue , green , red , yell , yellow
+7785	black , green , red , yellow
+7786	black , green , red , yellow
+7787	blue , red , yellow
+7788	black , green , red , yellow
+7789	black , green , yellow
+7790	blue , green , red , yellow
+7791	black , blue , green , red , yellow
+7792	blue , green , red , yell , yellow
+7793	black , blue , green , red , yell , yellow
+7794	blue , red , yellow
+7795	black , green , lack , red , yellow
+7796	blue , green , red , yellow
+7797	blue , green , red , yell
+7798	blue , green , red , yell , yellow
+7799	black , blue , green , yellow
+7800	black , blue , lack , red , yellow
+7801	black , green , red , yellow
+7802	black , blue , yell , yellow
+7803	blue , green , red , yellow
+7804	black , blue , green , yellow
+7805	blue , red , yellow
+7806	black , blue , green , red , yellow
+7807	blue , green , yellow
+7808	black , blue , green , red , yellow
+7809	black , blue , green , greenue , lack , red , yellow
+7810	blue , green , red , yell , yellow
+7811	black , blue , green , red , yell , yellow
+7812	blue , green , red , yell , yellow
+7813	black , green , red , yellow
+7814	black , blue , green , red , yell , yellow
+7815	blue , green , red , yellow
+7816	black , blue , lack , red
+7817	black , blue , green , yellow
+7818	blue , green , red , yellow
+7819	black , blue , green , yellow
+7820	black , blue , red , yellow
+7821	blue , green , red , yellow
+7822	black , green , red , yellow
+7823	black , blue , green , red , yellow
+7824	black , blue , green , yell
+7825	blue , green , red
+7826	black , green , red , yell , yellow
+7827	blue , green , red , yellow
+7828	blue , green , red , yellow
+7829	black , green , red , yellow
+7830	black , blue , green , red , yellow
+7831	blue , green , red , yellow
+7832	black , blue , yell , yellow
+7833	blue , green , red , yellow
+7834	blue , green , red , yellow
+7835	blue , green , red , yellow
+7836	green , red , yellow
+7837	black , blue , green , red , yell , yellow
+7838	blue , green , lack , red , yellow
+7839	blue , red , yellow
+7840	black , blue , green , red , yellow
+7841	black , blue , green , red , yellow
+7842	black , blue , red
+7843	black , green , lack , red , yellow
+7844	black , green , red , yellow
+7845	black , blue , red , yellow
+7846	blue , red , yellow
+7847	black , green , red , yellow
+7848	blue , green , red , yellow
+7849	blue , green , red , yellow
+7850	black , blue , green , yell
+7851	blue , green , red , yellow
+7852	black , blue , green , red , yell , yellow
+7853	blue , green , red , yellow
+7854	blue , green , red , yellow
+7855	black , green , red , yellow
+7856	blue , green , red , yellow
+7857	black , green , red , yellow
+7858	blue , green , red , yellow
+7859	blue , green , red , yellow
+7860	black , blue , green , red , yellow
+7861	black , blue , red , yellow
+7862	black , blue , green , red , yell , yellow
+7863	black , green , lack , red , yellow
+7864	black , blue , yell , yellow
+7865	black , green , red , yellow
+7866	black , red , yell , yellow
+7867	black , green , red , yellow
+7868	black , green , red , yellow
+7869	blue , red , yellow
+7870	black , blue , yell , yellow
+7871	black , blue , green , red , yell , yellow
+7872	black , green , red , yellow
+7873	black , blue , green , red , yellow
+7874	black , green , red , yellow
+7875	black , blue , green , yellow
+7876	blue , green , red , yellow
+7877	black , green , lack , red , yellow
+7878	blue , green , red , yell , yellow
+7879	blue , green , red , yellow
+7880	black , lack , red , yellow
+7881	blue , green , red , yellow
+7882	blue , green , red , yellow
+7883	black , green , red , yellow
+7884	black , blue , green , red , yellow
+7885	black , blue , yellow
+7886	black , blue , red , yellow
+7887	black , green , red , yell , yellow
+7888	blue , green , red , yell , yellow
+7889	blue , green , red , yellow
+7890	blue , green , red , yellow
+7891	blue , green , red , yellow
+7892	blue , red , yellow
+7893	black , blue , green , red , yellow
+7894	black , blue , green , lue , red , yellow
+7895	black , blue , green , red , yellow
+7896	blue , red , yellow
+7897	black , green , red , yell , yellow
+7898	black , blue , green , red , yell , yellow
+7899	black , blue , green , red , yell , yellow
+7900	black , green , red , yellow
+7901	black , blue , lack , yellow
+7902	blue , green , red , yellow
+7903	black , blue , green , red , yellow
+7904	black , blue , green , red , yellow
+7905	black , blue , green , red , yellow
+7906	black , green , red , yellow
+7907	black , blue , green , red , yellow
+7908	black , green , red , yellow
+7909	blue , green , red , yellow
+7910	black , blue , red , yellow
+7911	black , lack , red , yellow
+7912	black , red
+7913	blue , red , yellow
+7914	blue , green , red , yell , yellow
+7915	blue , red , yellow
+7916	black , blue , green , red
+7917	black , blue , lack , yellow
+7918	blue , green , red , yell , yellow
+7919	black , blue , green , yellow
+7920	black , blue , red , yellow
+7921	black , green , red , yell , yellow
+7922	black , blue , green , red , yellow
+7923	black , blue , green , red , yellow
+7924	blue , red , yellow
+7925	black , blue , lack , yell
+7926	blue , green , red , yellow
+7927	blue , green , red , yell , yellow
+7928	black , blue , green , red , yellow
+7929	blue , green , red
+7930	black , blue , green , red , yellow
+7931	blue , green , red
+7932	black , blue , red , yellow
+7933	black , blue , green
+7934	black , green , red , yellow
+7935	black , green , red , yellow
+7936	black , green , lack , red , yellow
+7937	black , blue , green , red , yell , yellow
+7938	blue , green , yellow
+7939	blue , green , red , yellow
+7940	black , blue , red , yellow
+7941	black , blue , lue , red , yellow
+7942	blue , green , yell , yellow
+7943	blue , green , red , yellow
+7944	blue , green , red , yell , yellow
+7945	black , blue , green , red , yellow
+7946	black , green , red , yellow
+7947	black , blue , green , red , yellow
+7948	black , blue , green , red , yellow
+7949	black , blue , green , red , yellow
+7950	black , blue , green , yell
+7951	blue , green , red , yellow
+7952	blue , green , red , yellow
+7953	blue , green , yellow
+7954	black , blue , green , red , yellow
+7955	blue , green , yellow
+7956	blue , red , yellow
+7957	blue , green , red , yellow
+7958	blue , red , yellow
+7959	blue , red , yell , yellow
+7960	blue , green , red , yell , yellow
+7961	black , green , red , yellow
+7962	blue , yell , yellow
+7963	black , green , red , yell , yellow
+7964	blue , green , red , yell , yellow
+7965	black , blue , red
+7966	blue , green , red , yellow
+7967	black , blue , green , red , yellow
+7968	black , blue , red , yellow
+7969	black , blue , green , red , yell , yellow
+7970	blue , green , lack , red , yell , yellow
+7971	black , blue , green , red , yellow
+7972	black , green , red , yell , yellow
+7973	black , green , red , yellow
+7974	black , green , red , yellow
+7975	black , blue , green , yellow
+7976	black , green , red , yellow
+7977	blue , red , yellow
+7978	black , blue , green , lack , red , yellow
+7979	black , green , red , yellow
+7980	black , blue , green , red , yellow
+7981	blue , green , red , yellow
+7982	blue , green , red , yellow
+7983	black , green , lack , red , yellow
+7984	black , green , red , yellow
+7985	black , green , red , yellow
+7986	black , blue , green , red , yellow
+7987	black , blue , yellow
+7988	black , green , red , yellow
+7989	black , blue , green , red , yellow
+7990	black , blue , green , red , yell , yellow
+7991	black , green , lack , red , yellow
+7992	black , blue , green , red , yellow
+7993	blue , green , red , yellow
+7994	blue , red , yellow
+7995	black , green , red , yellow
+7996	black , red , yellow
+7997	black , blue , green , yellow
+7998	blue , green , yellow
+7999	black , blue , green , yell , yellow
+8000	black , blue , green , lack , red , yellow
+8001	black , red , yellow
+8002	blue , green , red , yellow
+8003	black , blue , green , red , yell , yellow
+8004	black , blue , lack , red , yellow
+8005	black , blue , green , red , yell , yellow
+8006	black , green , red , yell , yellow
+8007	black , blue , green , red , yellow
+8008	black , blue , green , yellow
+8009	blue , green , red , yellow
+8010	blue , green , yellow
+8011	black , red , yellow
+8012	blue , green , lack , red , yellow
+8013	blue , red , yellow
+8014	black , blue , green , red , yellow
+8015	blue , green , red
+8016	black , blue , green , red , yellow
+8017	blue , red , yellow
+8018	black , green , red , yellow
+8019	blue , red , yellow
+8020	black , blue , green , red , yell , yellow
+8021	black , blue , red , yellow
+8022	blue , green , red
+8023	black , blue , red , yellow
+8024	black , green , red , yellow
+8025	black , blue , green , lack , red
+8026	blue , green , red , yellow
+8027	green , red , yellow
+8028	black , blue , yellow
+8029	black , green , red , yellow
+8030	black , blue , red , yellow
+8031	black , green , red , yellow
+8032	black , blue , green , lack , yell
+8033	blue , green , red , yellow
+8034	black , blue , green , red , yellow
+8035	black , blue , green , red , yellow
+8036	blue , red , yellow
+8037	black , blue , green , red , yellow
+8038	black , green , lack , red , yellow
+8039	black , blue , yellow
+8040	black , blue , green , red , yell , yellow
+8041	blue , yell , yellow
+8042	black , blue , red , yellow
+8043	blue , green , red , yellow
+8044	black , blue , red , yellow
+8045	black , blue , green , red , yell , yellow
+8046	black , green , red , yellow
+8047	black , blue , green , yellow
+8048	blue , green , red , yellow
+8049	black , green , red , yellow
+8050	red , yellow
+8051	black , blue , green , red , yellow
+8052	black , blue , lue , red , yellow
+8053	blue , green , red , yellow
+8054	blue , green , red
+8055	black , blue , green
+8056	blue , green , red , yellow
+8057	black , blue , red , yellow
+8058	black , blue , green , red , yellow
+8059	green , red , yellow
+8060	black , blue , green , yellow
+8061	black , blue , green , red , yellow
+8062	black , blue , green , red
+8063	blue , green , red , yellow
+8064	black , blue , green , red , yellow
+8065	black , blue , green , yell
+8066	black , blue , red , yell , yellow
+8067	green , red , yellow
+8068	blue , green , red , yell
+8069	black , green , red
+8070	black , blue , green , red , yell , yellow
+8071	black , blue , lack , red
+8072	black , blue , green , red , yellow
+8073	black , blue , red , yellow
+8074	black , blue , red , yellow
+8075	black , blue , green , red , yellow
+8076	blue , red , yellow
+8077	blue , red , yellow
+8078	blue , green , red , yellow
+8079	black , blue , green , red , yellow
+8080	blue , green , red
+8081	blue , green , red , yell , yellow
+8082	green , red , yell , yellow
+8083	blue , red , yellow
+8084	black , green , red , yellow
+8085	black , blue , red , yellow
+8086	black , red , yellow
+8087	black , blue , green , red , yell , yellow
+8088	blue , green , red , yellow
+8089	black , blue , green , red , yell , yellow
+8090	black , blue , green , red , yellow
+8091	blue , green , red
+8092	black , blue , green , red , yellow
+8093	black , blue , green , red , yellow
+8094	blue , green , red , yellow
+8095	black , blue , green , red , yellow
+8096	black , blue , green , yellow
+8097	black , blue , green , red
+8098	black , blue , green , red , yellow
+8099	blue , green , red
+8100	black , green , red , yellow
+8101	black , blue , green , red
+8102	blue , green , red , yellow
+8103	blue , green , red , yellow
+8104	black , green , red , yellow
+8105	black , blue , red , yellow
+8106	blue , green , red , yellow
+8107	blue , green , red , yell , yellow
+8108	black , green , red , yell , yellow
+8109	blue , green , lack , red , yellow
+8110	black , blue , green , red , yell , yellow
+8111	black , blue , green , red , yell , yellow
+8112	black , green , red
+8113	blue , green , red , yellow
+8114	black , green , red , yellow
+8115	blue , green , red , yellow
+8116	blue , green , red , yellow
+8117	black , blue , red , yellow
+8118	blue , green , red , yellow
+8119	black , blue , green , red , yellow
+8120	blue , green , red , yell , yellow
+8121	black , blue , green , red , yellow
+8122	black , green , red , yell , yellow
+8123	black , blue , green , red , yellow
+8124	blue , green , red , yell , yellow
+8125	black , blue , red
+8126	black , green , lack , red , yellow
+8127	black , red , yellow
+8128	blue , red
+8129	black , blue , red
+8130	black , blue , green , red , yellow
+8131	blue , green , lack , red , yellow
+8132	blue , green , lack , red , yellow
+8133	black , blue , yell
+8134	black , blue , green , red , yellow
+8135	black , green , red , yellow
+8136	blue , green , red , yell , yellow
+8137	blue , green , red , yellow
+8138	blue , green , red , yellow
+8139	blue , green , red , yellow
+8140	blue , green , red , yellow
+8141	black , blue , green , red , yellow
+8142	black , blue , green , yellow
+8143	black , green , red , yell , yellow
+8144	black , green , red
+8145	black , blue , green , lack , yell
+8146	blue , green , red , yellow
+8147	black , blue , green , red , yell , yellow
+8148	black , green , yellow
+8149	black , green , red , yellow
+8150	black , blue , green , red , yellow
+8151	black , green , red
+8152	black , red , yellow
+8153	black , blue , green , red , yellow
+8154	black , blue , red , yellow
+8155	blue , green , red , yellow
+8156	black , blue , green , red , yellow
+8157	blue , red , yellow
+8158	blue , green , red , yellow
+8159	blue , green , red , yellow
+8160	black , green , red , yellow
+8161	black , green , red , yellow
+8162	blue , green , red , yellow
+8163	black , blue , green , yellow
+8164	black , green , red , yell
+8165	black , green , lack , yellow
+8166	blue , green , lack , red , yell , yellow
+8167	black , blue , green , lack , red
+8168	black , blue , green , lack , red , yellow
+8169	black , red , yellow
+8170	blue , green , red , yellow
+8171	blue , green , yell , yellow
+8172	blue , green , red , yellow
+8173	black , green , red , yellow
+8174	blue , red , yellow
+8175	black , green , red , yellow
+8176	blue , green , red , yellow
+8177	black , red , yellow
+8178	black , blue , green , yellow
+8179	blue , green , red , yellow
+8180	blue , green , yellow
+8181	black , red , yellow
+8182	black , blue , lack , red
+8183	black , green , red , yellow
+8184	black , blue , green , red , yellow
+8185	blue , green , red , yellow
+8186	black , blue , green , lack , yellow
+8187	black , blue , green , red , yellow
+8188	black , blue , green , red , yellow
+8189	black , green , red , yell , yellow
+8190	black , green , red , yellow
+8191	black , blue , red , yellow
+8192	black , green
+8193	black , blue , green , red , yellow
+8194	blue , red , yellow
+8195	black , blue , green , red , yell , yellow
+8196	black , green , red , yellow
+8197	black , blue , green , red , yellow
+8198	black , red , yellow
+8199	black , green , red , yellow
+8200	black , green , lack , yellow
+8201	black , blue , green , red , yellow
+8202	black , blue , green , red , yell , yellow
+8203	black , green , red , yellow
+8204	blue , red , yellow
+8205	blue , green , red , yellow
+8206	blue , green , red , yell , yellow
+8207	blue , green , red , yellow
+8208	blue , yellow
+8209	black , green , yellow
+8210	black , blue , green , red , yell , yellow
+8211	blue , red , yellow
+8212	black , green , lack , red , yellow
+8213	black , blue , green , red , yellow
+8214	blue , green , red , yellow
+8215	black , blue , lack , red , yellow
+8216	black , blue , red , yellow
+8217	black , green , red , yellow
+8218	black , blue , red , yellow
+8219	black , green , red , yell , yellow
+8220	black , green , yellow
+8221	black , blue , green , red , yell , yellow
+8222	black , blue , green , red , yell , yellow
+8223	black , green , red
+8224	black , green , red , yellow
+8225	blue , red , yellow
+8226	black , lack , red , yell , yellow
+8227	blue , green , yellow
+8228	blue , green , red , yellow
+8229	black , green , red , yellow
+8230	black , blue , green , yellow
+8231	blue , green , red , yellow
+8232	blue , green , red , yellow
+8233	blue , green , red , yellow
+8234	black , blue , green , red , yellow
+8235	black , green
+8236	blue , green , red , yellow
+8237	blue , red , yellow
+8238	black , green , red , yellow
+8239	black , blue , green , red , yellow
+8240	black , green , red
+8241	black , green , lack , red , yellow
+8242	blue , green , red , yell , yellow
+8243	black , blue , red
+8244	black , blue , green , red , yellow
+8245	black , blue , red , yellow
+8246	black , red , yell , yellow
+8247	blue , green , red , yellow
+8248	black , green , yellow
+8249	black , blue , green , yellow
+8250	green , red , yell , yellow
+8251	blue , green , yellow
+8252	black , blue , green , red
+8253	black , green , red , yellow
+8254	black , green , lack , red , yellow
+8255	black , green , lack , red , yellow
+8256	black , green , red , yellow
+8257	black , blue , green , red , yellow
+8258	black , blue , green , yellow
+8259	black , blue , green , red , yellow
+8260	blue , green , red , yell , yellow
+8261	blue , green , red , yellow
+8262	blue , green , red , yellow
+8263	black , blue , green , red , yellow
+8264	blue , green , red , yell , yellow
+8265	black , blue , red , yellow
+8266	black , green , lack , red , yellow
+8267	blue , green , lack , red , yellow
+8268	black , green , red , yellow
+8269	blue , green , red , yellow
+8270	black , green , red , yellow
+8271	black , blue , red , yellow
+8272	blue , green , red , yell , yellow
+8273	black , lack , red , yellow
+8274	blue , green , lack , red , yell
+8275	black , blue , green , yellow
+8276	black , green , red , yellow
+8277	black , blue , green , red , yell , yellow
+8278	black , yell , yellow
+8279	black , blue , red , yellow
+8280	black , blueack , green , red , yellow
+8281	black , green , red , yellow
+8282	black , blue , green , red , yellow
+8283	black , blue , green , redack , yellow
+8284	black , green , yellow
+8285	black , green , red , yellow
+8286	blue , red
+8287	black , green , red , yellow
+8288	blue , green , red , yell , yellow
+8289	blue , lack , yellow
+8290	blue , green , red
+8291	black , green , red , yell , yellow
+8292	black , blue , green , red , yellow
+8293	black , blue , green , lack , yellow
+8294	blue , green , red , yellow
+8295	blue , green , red , yellow
+8296	black , green , red , yellow
+8297	black , green , yellow
+8298	black , green , red , yellow
+8299	blue , green , red , yellow
+8300	black , blue , lack , red , yellow
+8301	black , blue , red , yellow
+8302	blue , green , red , yellow
+8303	black , green , lack , red , yellow
+8304	black , green , red , yellow
+8305	black , blue , green , lack , red , yellow
+8306	blue , red , yellow
+8307	blue , green , red , yellow
+8308	black , green , red , yellow
+8309	blue , green , red , yellow
+8310	black , blue , green , yellow
+8311	green , red , yellow
+8312	blue , green , red , yellow
+8313	black , blue , green , red
+8314	blue , green , red , yellow
+8315	black , green , red , yellow
+8316	black , green , red , yellow
+8317	black , blue , green , red
+8318	black , green , red , yellow
+8319	black , blue , green , yellow
+8320	black , green , lack , red
+8321	blue , green , red , yellow
+8322	blue , green , red , yellow
+8323	blue , green , yellow
+8324	black , green , red , yellow
+8325	black , blue , green , red
+8326	black , blue , green , red , yellow
+8327	black , green , lack , red , yellow
+8328	black , blue , red , yellow
+8329	blue , green , red , yellow
+8330	black , green , yellow
+8331	blue , green , red
+8332	black , blue , red , yellow
+8333	blue , green , red , yellow
+8334	blue , green , red
+8335	black , blue , green , red , yellow
+8336	black , green , red , yellow
+8337	black , blue , red , yell
+8338	black , blue , green , red , yellow
+8339	black , blue , green , red
+8340	black , blue , green , red , yellow
+8341	black , blue , green , red , yell , yellowack
+8342	black , green , red , yellow
+8343	black , blue , green , red , yellow
+8344	black , green , red , yellow
+8345	black , green , red , yellow
+8346	black , green , red , yellow
+8347	black , blue , green , red , yellow
+8348	black , blue , green , red , yell , yellow
+8349	black , blue , green , red , yell , yellow
+8350	black , red , yell , yellow
+8351	black , blue , yellow
+8352	black , blue , green , red , yellow
+8353	black , blue , green , red , yellow
+8354	black , blue , red , yellow
+8355	black , green , red , yellow
+8356	blue , green , red , yellow
+8357	black , green , red
+8358	blue , green , red , yellow
+8359	black , blue , red , yellow
+8360	green , red , yellow
+8361	black , green , red , yellow
+8362	blue , green , red , yellow
+8363	black , blue , green , yellow
+8364	blue , green , red , yellow
+8365	black , blue , green , red , yellow
+8366	blue , green , red , yellow
+8367	black , green , lack , red , yellow
+8368	black , green , red , yellow
+8369	black , blue , red , yell , yellow
+8370	black , green , yellow
+8371	blue , green , red , yellow
+8372	black , green , red , yellow
+8373	blue , green , red
+8374	black , green , red , yellow
+8375	black , green , red , yell , yellow
+8376	black , green , red , yellow
+8377	blue , green , red , yellow
+8378	black , lack , red , yell , yellow
+8379	black , green , red , yellow
+8380	blue , green , red
+8381	black , blue , green , red , yellow
+8382	black , blue , green , red , yellow
+8383	black , blue , green , red , yellow
+8384	black , green , red , yellow
+8385	black , blue , red , yellow
+8386	blue , green , red , yellow
+8387	blue , red , yellow
+8388	black , blue , green , red , yellow
+8389	black , blue , green , red , yellow
+8390	black , blue , green , red , yellow
+8391	black , blue , green , red , yellow
+8392	black , green , red , yellow
+8393	black , green , red , yellow
+8394	black , blue , red , yellow
+8395	blue , red
+8396	black , green , red
+8397	blue , green , red
+8398	black , blue , green , red
+8399	black , green , red , yellow
+8400	black , blue , red , yellow
+8401	black , blue , green , red , yellow
+8402	blue , green , red , yellow
+8403	black , blue , green , red , yellow
+8404	black , blue , green , red , yellow
+8405	black , green , red , yellow
+8406	black , blue , green , red , yellow
+8407	black , blue , green , red , yell , yellow
+8408	black , lack , yellow
+8409	black , blue , green
+8410	blue , green , red , yellow
+8411	black , blue , red , yellow
+8412	black , green , lack , red , yellow
+8413	black , blue , yellow
+8414	black , green , red , yellow
+8415	black , red , yellow
+8416	blue , green , red , yellow
+8417	black , blue , green , red , yellow
+8418	blue , green , yellow
+8419	black , blue , green , red , yellow
+8420	black , lack , red , yellow
+8421	blue , green , red , yellow
+8422	black , blue , green , red , yellow
+8423	black , green , red , yellow
+8424	blue , green , lack , red , yellow
+8425	black , blue , green , red , yellow
+8426	blue , green , red , yellow
+8427	blue , green , red , yellow
+8428	blue , green , red , yellow
+8429	black , blue , green , yellow
+8430	blackue , green , red , yellow
+8431	blue , green , yellow
+8432	blue , green , red , yellow
+8433	black , blue , green , red , yellow
+8434	blue , green , red , yellow
+8435	black , blue , green , lack , red , yellow
+8436	blue , green , red , yellow
+8437	black , green , lack , red , yellow
+8438	black , blue , green , yellow
+8439	blue , green , red , yellow
+8440	black , blue , green , red , yellow
+8441	blue , red , yellow
+8442	black , green , red , yellow
+8443	black , blue , red , yellow
+8444	black , blue , red , yellow
+8445	black , green , red , yellow
+8446	black , green , lack , red , yell , yellow
+8447	black , blue , green , red , yellow
+8448	black , blue , green , red , yellow
+8449	black , green , red , yellow
+8450	black , green , red , yell , yellow
+8451	black , blue , green , red , yellow
+8452	blue , green , red , yellow
+8453	black , green , red , yellow
+8454	black , blue , green , red , yellow
+8455	blue , green , red , yellow
+8456	blue , green , yellow
+8457	blue , green , red , yell , yellow
+8458	black , green , red , yellow
+8459	black , blue , green , red , yellow
+8460	blue , green , red , yellow
+8461	black , red
+8462	blue , green , red , yellow
+8463	black , blue , green , red , yellow
+8464	blue , green , red , yellow
+8465	black , green
+8466	green , red , yellow
+8467	black , green , lack , red , yellow
+8468	black , green , red , yellow
+8469	blue , red , yellow
+8470	black , green , red , yellow
+8471	black , blue , red
+8472	black , blue , green , yellow
+8473	black , green , red , yellow
+8474	black , lack , red , yellow
+8475	black , blue , green , red , yellow
+8476	black , lack , red , yellow
+8477	black , green , red , yellow
+8478	black , green , yellow
+8479	blue , green , yellow
+8480	blue , green , red , yellow
+8481	blue , green , red , yellow
+8482	black , green , red , yellow
+8483	black , green , lack , red , yellow
+8484	blue , green , red , yellow
+8485	black , blue , green , red , yellow
+8486	black , red , yellow
+8487	black , blue , green , red , yellow
+8488	black , blue , green , red , yellow
+8489	black , green , lack , red , yell , yellow
+8490	blue , green , yellow
+8491	black , blue , green , lack , red , yellow
+8492	black , green , red
+8493	black , blue , green , yellow
+8494	blue , green , red , yellow
+8495	black , blue , green , red , yellow
+8496	black , blue , green , red , yellow
+8497	black , blue , green , red , yell , yellow
+8498	blue , green , red , yellow
+8499	black , green , red , yellow
